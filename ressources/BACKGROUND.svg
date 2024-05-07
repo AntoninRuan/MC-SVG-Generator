@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="830" height="400" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient id="Fond">
+<stop stop-color="#01164a" offset="0"/>
+<stop stop-color="#3b67bd" offset="1"/>
+</linearGradient>
+<linearGradient id="linearGradient106632" x1="3.182" x2="3.182" y1="77.243" y2="4.243" gradientTransform="matrix(1.979 0 0 .54397 46.336 332.26)" gradientUnits="userSpaceOnUse" xlink:href="#Fond"/>
+<linearGradient id="linearGradient1934" x1="3.182" x2="3.182" y1="77.243" y2="4.243" gradientTransform="matrix(1.1258 0 0 1.2524 213.2 271.47)" gradientUnits="userSpaceOnUse" xlink:href="#Fond"/>
+<linearGradient id="linearGradient5894" x1="3.182" x2="3.182" y1="77.243" y2="4.243" gradientTransform="matrix(1.1288 0 0 .61682 212.66 32.75)" gradientUnits="userSpaceOnUse" xlink:href="#Fond"/>
+</defs>
+<g id="clmc" class="title">
+<rect x="216.25" y="35.365" width="397.5" height="47.497" rx="5.6441" ry="3.0839" fill="url(#linearGradient5894)" stroke="#a8b0c2" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5028" paint-order="stroke fill markers"/>
+<text x="415.32001" y="66.263954" fill="#f2f2f2" font-family="sans-serif" font-size="20px" font-weight="bold" text-align="center" text-anchor="middle" style="line-height:1.25" xml:space="preserve"><tspan x="415.32001" y="66.263954">C'EST LA MÊME CHANSON</tspan></text>
+</g>
+<g class="you" transform="matrix(1.1903 0 0 1.1903 -13.995 -36.852)">
+<path d="m76.004 166.79 42.224-4.2224-7.917 51.197-33.252 4.2224z" fill="#ffd7a9" stop-color="#000000" style="font-variation-settings:normal"/>
+<path d="m74.948 174.7 8.4449-6.8614 8.9727-0.5278 8.4449-2.1112 7.3892 1.5834h7.917l4.2224-2.639 0.52781-3.1668-5.8058-2.1112-7.917-0.5278h-11.084l-10.028 2.1112-4.7502 2.1112-6.3336 2.1112-4.2224 5.278 1.0556 5.8058z" fill="#636363" stop-color="#000000" style="font-variation-settings:normal"/>
+<path d="m61.225 220.09 66.503-6.8614-8.9727 90.782-41.169 5.278z" fill="#111" stop-color="#000000" style="font-variation-settings:normal"/>
+<path d="m80.226 307.71 2.1112 78.115 10.028-1.5834 7.3892-69.142 17.418 69.142 9.5005-2.1112-12.139-79.698z" fill="#111" stop-color="#000000" style="font-variation-settings:normal"/>
+<path d="m83.973 218.7 10.45 87.705 7.8375-1.1196 4.1053-89.944z" fill="#efece8" stop-color="#000000" style="font-variation-settings:normal"/>
+<path d="m61.58 223.93-3.7321 44.039 14.182 27.245 3.7321-2.2393-13.436-27.245 3.3589-41.427z" fill="#070707" stop-color="#000000" style="font-variation-settings:normal"/>
+<path d="m127.27 293.35 17.168-0.37321-0.74643 6.7178-16.795-2.9857z" fill="#303030" stop-color="#000000" style="font-variation-settings:normal"/>
+<path d="m143.69 301.18 0.74642-9.7036 1.4929 1.1196 1.4928 1.8661v2.2393l-0.74643 2.9857z" fill="#7f7f7f" stop-color="#000000" style="font-variation-settings:normal"/>
+<path d="m120.55 220.57 10.823 40.307 2.6125 32.843 2.6125-0.37321-1.8661-33.962-10.077-40.307z" fill="#070707" stop-color="#000000" style="font-variation-settings:normal"/>
+</g>
+<g class="you" transform="matrix(1.737 0 0 1.737 -172.54 710.24)">
+<path d="m455.32-312.75h-29.111l8.2107 32.843 19.407-0.74643z" fill="#ffd7a9" stop-color="#000000" style="font-variation-settings:normal"/>
+<path d="m454.95-306.78-12.689-5.5982-8.2107 5.5982-4.8518-2.6125-10.823 3.7321 4.1053-10.45 8.5839-4.4786 5.9714 1.4929 6.7178-1.4929 4.8518 1.4929 6.7178-0.74643 1.8661 2.6125 5.9714 3.3589 1.4928 5.9714-1.1196 4.4786-4.8518 2.6125-5.5982-0.74642z" fill="#453c31" stop-color="#000000" style="font-variation-settings:normal"/>
+<path d="m469.5-279.54-51.877 0.74643 11.943 60.834 36.948-0.74643z" fill="#7d1915" stop-color="#000000" style="font-variation-settings:normal"/>
+<path d="m433.67-216.84-5.5982 55.236 10.077-0.37321 7.8375-47.025 17.914 44.412 9.7036-0.37322-11.196-53.369z" fill="#1a157d" stop-color="#000000" style="font-variation-settings:normal"/>
+<path d="m417.23-276.04 18.209 15.57 6.8614-19.001 3.1668 0.5278-8.181 22.959-1.0556 1.8473-21.64-19.265z" fill="#641411" stop-color="#000000" style="font-variation-settings:normal"/>
+<path d="m470.01-277.89-15.57 22.432-11.876-22.696 3.1668-1.5834 8.7088 18.473 13.987-18.209z" fill="#641411" stop-color="#000000" style="font-variation-settings:normal"/>
+<path d="m440.95-284.59 2.9724 21.78 1.8449-0.0951 0.98093-21.983z" fill="#2c2828" stop-color="#000000" style="font-variation-settings:normal"/>
+<path d="m447.58-284.75-7.917 0.7917v-1.8473l1.5834-2.1112 2.639-0.79171 2.1112 0.5278 1.3195 1.5834z" fill="#7b7070" stop-color="#000000" style="font-variation-settings:normal"/>
+</g>
+<rect id="lyrics_bg" class="lyrics_bg" x="52.633" y="334.57" width="696.89" height="41.888" rx="9.8952" ry="2.7197" fill="url(#linearGradient106632)" stroke="#a8b0c2" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.1122" paint-order="stroke fill markers"/>
+<g class="note" transform="translate(-20.9 -4.4786)">
+<path d="m679.03 139.87a4.5 4.5 0 0 1-4.5 4.5 4.5 4.5 0 0 1-4.5-4.5 4.5 4.5 0 0 1 4.5-4.5 4.5 4.5 0 0 1 4.5 4.5z" stop-color="#000000"/>
+<path d="m697.11 144.49a4.5 4.5 0 0 1-4.5 4.5 4.5 4.5 0 0 1-4.5-4.5 4.5 4.5 0 0 1 4.5-4.5 4.5 4.5 0 0 1 4.5 4.5z" stop-color="#000000"/>
+<path d="m678.89 140.26-0.13196-23.487 15.702 2.5071 0.92365 24.147 1.4515 0.13195-1.1876-25.73-18.473-2.771 0.39586 25.73z" stop-color="#000000" style="font-variation-settings:normal"/>
+</g>
+<g class="note" transform="rotate(-12.485 910.22 936.43)">
+<path d="m679.03 139.87a4.5 4.5 0 0 1-4.5 4.5 4.5 4.5 0 0 1-4.5-4.5 4.5 4.5 0 0 1 4.5-4.5 4.5 4.5 0 0 1 4.5 4.5z" stop-color="#000000"/>
+<path d="m697.11 144.49a4.5 4.5 0 0 1-4.5 4.5 4.5 4.5 0 0 1-4.5-4.5 4.5 4.5 0 0 1 4.5-4.5 4.5 4.5 0 0 1 4.5 4.5z" stop-color="#000000"/>
+<path d="m678.89 140.26-0.13196-23.487 15.702 2.5071 0.92365 24.147 1.4515 0.13195-1.1876-25.73-18.473-2.771 0.39586 25.73z" stop-color="#000000" style="font-variation-settings:normal"/>
+</g>
+<g class="note" transform="rotate(22.492 636.5 -201.61)">
+<path d="m679.03 139.87a4.5 4.5 0 0 1-4.5 4.5 4.5 4.5 0 0 1-4.5-4.5 4.5 4.5 0 0 1 4.5-4.5 4.5 4.5 0 0 1 4.5 4.5z" stop-color="#000000"/>
+<path d="m697.11 144.49a4.5 4.5 0 0 1-4.5 4.5 4.5 4.5 0 0 1-4.5-4.5 4.5 4.5 0 0 1 4.5-4.5 4.5 4.5 0 0 1 4.5 4.5z" stop-color="#000000"/>
+<path d="m678.89 140.26-0.13196-23.487 15.702 2.5071 0.92365 24.147 1.4515 0.13195-1.1876-25.73-18.473-2.771 0.39586 25.73z" stop-color="#000000" style="font-variation-settings:normal"/>
+</g>
+<g class="note" transform="rotate(-26.789 843.19 158.09)">
+<path d="m679.03 139.87a4.5 4.5 0 0 1-4.5 4.5 4.5 4.5 0 0 1-4.5-4.5 4.5 4.5 0 0 1 4.5-4.5 4.5 4.5 0 0 1 4.5 4.5z" stop-color="#000000"/>
+<path d="m697.11 144.49a4.5 4.5 0 0 1-4.5 4.5 4.5 4.5 0 0 1-4.5-4.5 4.5 4.5 0 0 1 4.5-4.5 4.5 4.5 0 0 1 4.5 4.5z" stop-color="#000000"/>
+<path d="m678.89 140.26-0.13196-23.487 15.702 2.5071 0.92365 24.147 1.4515 0.13195-1.1876-25.73-18.473-2.771 0.39586 25.73z" stop-color="#000000" style="font-variation-settings:normal"/>
+</g>
+<g class="logo" transform="translate(29.029 8.4449)">
+<ellipse cx="720.98" cy="40.485" rx="7.6531" ry="8.0247" fill="#a51c1c" stop-color="#000000" style="font-variation-settings:normal"/>
+<text x="728.63226" y="57.266647" dominant-baseline="auto" fill="#fffdfd" font-family="sans-serif" font-size="64px" font-weight="bold" stop-color="#000000" text-align="center" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;line-height:1.25;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal" xml:space="preserve"><tspan x="728.63226" y="57.266647" fill="#fffdfd" font-size="64px">2</tspan></text>
+</g>
+<g id="title" class="title" transform="translate(0 -125)">
+<rect x="216.78" y="276.78" width="396.44" height="96.438" rx="5.6291" ry="6.2615" fill="url(#linearGradient1934)" stroke="#a7aec1" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5616" paint-order="stroke fill markers"/>
+</g>
+</svg>
